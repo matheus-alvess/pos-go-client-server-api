@@ -37,3 +37,9 @@ _cgo_export.*
 # Common IDE folders
 .idea
 .vscode
+
+# SqlLite
+quotation.db
+
+#Local Quotation File
+cotacao.txt
